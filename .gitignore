@@ -9,7 +9,23 @@
 /coverage
 
 # production
-/build
+# /build
+/src
+/public
+
+# public
+public/css/
+public/fonts/
+public/images/
+public/scss/
+src/AnimatedRoutes.jsx
+src/App.jsx
+src/CLientForm/
+src/Header.jsx
+src/Loader.jsx
+src/pages/
+src/plugins/
+src/store/
 
 # misc
 .DS_Store
